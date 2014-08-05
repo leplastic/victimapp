@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Names -->
+    <string name="app_name">VictimApp2</string>
+    <string name="activity_victim_name">VictimApp</string>
+    <string name="activity_controller_name">LOST-OppNet Status</string>
+    
+    <!-- Victim activity -->
+    <string name="heading_send">Send a message</string>
+    <string name="heading_sent">Messages sent</string>
+    <string name="btn_send">Send</string>
+    <string name="imageStatusDesc">LOST-OppNet current state</string>
+    <string name="defaultState">Stopped</string>
+    
+    <!-- Controller activity -->
+    <string name="heading_lost_status">LOST-OppNet Status</string>
+    <string name="label_serv_status">Android Service status</string>
+    <string name="label_env_status">Environment state</string>
+    <string name="env_status_default">Stopped</string>
+    <string name="serv_status_disabled">Disabled</string>
+    <string name="btnStartStop_do_enable">Enable Service</string>
+    <string name="btnStartStop_do_disable">Disable Service</string>
+
+</resources>
